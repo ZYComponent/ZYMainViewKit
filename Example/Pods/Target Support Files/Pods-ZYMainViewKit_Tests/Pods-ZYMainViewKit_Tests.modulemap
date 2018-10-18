@@ -1,0 +1,6 @@
+framework module Pods_ZYMainViewKit_Tests {
+  umbrella header "Pods-ZYMainViewKit_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}
