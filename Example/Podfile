@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'ZYMainViewKit_Example' do
+  pod 'ZYMainViewKit', :path => '../'
+
+  target 'ZYMainViewKit_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
